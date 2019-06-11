@@ -1,0 +1,5 @@
+{
+  "link":"https://slotoshop.club/kazino.php",
+  "browser":false,
+  "percent":false
+}
