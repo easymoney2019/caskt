@@ -1,5 +1,5 @@
 {
   "link":"http://cxemizarabotka.xyz/kazino.php",
-  "browser":true,
+  "browser":false,
   "percent":false
 }
