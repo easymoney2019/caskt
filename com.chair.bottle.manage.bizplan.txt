@@ -1,0 +1,5 @@
+{
+  "link":"https://slotolive.xyz/kazino.php",
+  "browser":true,
+  "percent":false
+}
