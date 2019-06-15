@@ -1,5 +1,5 @@
 {
-  "link":"https://slotolive.xyz/kazino.php",
+  "link":"https://newcasik.club/kazino.php",
   "browser":true,
   "percent":false
 }
