@@ -1,5 +1,5 @@
 {
-  "link":"https://newcasik.club/kazino.php",
+  "link":"http://newcasik.club/kazino.php",
   "browser":true,
   "percent":false
 }
