@@ -1,5 +1,6 @@
 {
   "link":"http://newlucky.club/kazino.php",
-  "browser":false,
+  "browser":true,
   "percent":false
 }
+I
